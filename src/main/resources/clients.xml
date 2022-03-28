@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<clients>
+    <client id="2">
+        <company>test</company>
+        <email>d@s.com</email>
+        <fullName>Dmiriy Stukalov</fullName>
+        <phones>123-12</phones>
+        <phones>11-1</phones>
+        <position>dev</position>
+    </client>
+    <client id="1">
+        <company>test</company>
+        <email>d@s.com</email>
+        <fullName>Stukalov Dmitriy</fullName>
+        <phones>1111</phones>
+        <position>dev</position>
+    </client>
+</clients>
